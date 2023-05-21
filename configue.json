@@ -1,0 +1,49 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+		"gameurl":"https://cdn.kiz10.com/upload/games/htmlgames/find-a-throne--draw-to-pee/index.html",
+        "BannerAd": "ironsource",
+		"InterstitialAd": "ironsource",
+        "NativeAd": "max",
+        
+        "startApp_ID" : "204947437",
+        
+        "active_ads_bg": true,
+        
+        "ads_reload" : true,
+		
+		"BannerAdmob": "ca-app-pub-6965950004256246/4298928344",
+        "InterstitialAdmob": "ca-app-pub-6965950004256246/9359683332",
+        "NativeAdmob": "ca-app-pub-6965950004256246/3915784966",
+        
+		"maxBanner": "a84c3cabcbbb7409",
+		"maxBanner_2": "bfd39c70322d76b2",
+		"maxInterstitial": "161a9b7ae761ddfc",
+		"maxNative": "3c43f6693189fff2",
+		
+		"ironsource_appKey": "1915ac475",
+		
+		"unity_game_id": "3883855",
+		"unity_test": true,
+		"unity_banner": "banner",
+		"unity_interstitial": "video",
+		
+		"disable_link1":"https://www.agnesgames.com/?utm_source=html5.gamedistribution.com&utm_medium=html5&utm_campaign=happy-princesses-pregnant-bffs&utm_content=more-games-in-game",
+		"disable_link2":"https://www.agnesgames.com/?utm_source=html5.gamedistribution.com&utm_medium=html5&utm_campaign=happy-princesses-pregnant-bffs&utm_content=more-games-cover",
+		"disable_link3":"",
+		"disable_link4":"",
+		"logo1":"1.jpg",
+		"logo2":"2.jpg",
+		"jsfile":"example.js",
+		
+		"maxCount":"90000",
+		"different":"1000"
+
+		
+		
+		
+      }
+	  }
+	  }
+	  
