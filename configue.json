@@ -4,8 +4,8 @@
       {
 		"gameurl":"http://f.gameplaf.com/lr/turning-red-2-roblox/",
         "BannerAd": "max",
-		"InterstitialAd": "ironsource",
-        "NativeAd": "max",
+		"InterstitialAd": "admob",
+        "NativeAd": "admob",
         
         "startApp_ID" : "204947437",
         
@@ -13,14 +13,14 @@
         
         "ads_reload" : true,
 		
-		"BannerAdmob": "ca-app-pub-6965950004256246/4298928344",
-        "InterstitialAdmob": "ca-app-pub-6965950004256246/9359683332",
-        "NativeAdmob": "ca-app-pub-6965950004256246/3915784966",
+		"BannerAdmob": "ca-app-pub-5485649178172221/3636122283",
+        "InterstitialAdmob": "ca-app-pub-5485649178172221/5747759238",
+        "NativeAdmob": "ca-app-pub-5485649178172221/4757632264",
         
-		"maxBanner": "a84c3cabcbbb7409",
-		"maxBanner_2": "bfd39c70322d76b2",
-		"maxInterstitial": "161a9b7ae761ddfc",
-		"maxNative": "3c43f6693189fff2",
+		"maxBanner": "96b52554431cb50a",
+		"maxBanner_2": "c86d6224102b2ada",
+		"maxInterstitial": "400861e8e43482ff",
+		"maxNative": "9691627c9f01d773",
 		
 		"ironsource_appKey": "1915ac475",
 		
