@@ -4,8 +4,8 @@
       {
 		"gameurl":"http://f.gameplaf.com/lr/turning-red-2-roblox/",
         "BannerAd": "max",
-		"InterstitialAd": "admob",
-        "NativeAd": "admob",
+		"InterstitialAd": "max",
+        "NativeAd": "max",
         
         "startApp_ID" : "204947437",
         
